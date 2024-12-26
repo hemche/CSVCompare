@@ -8,7 +8,7 @@ CSVCompare is a simple Java-based tool designed to compare two CSV files and hig
 - **Detailed differences reporting**: Outputs the differences in a human-readable format, making it easy to spot discrepancies.
 - **No external libraries**: The tool does not rely on any external libraries for CSV processing, making it lightweight and easy to integrate into your projects.
 - **Supports handling of common CSV formatting issues**: It accounts for extra spaces, case sensitivity, and row/column differences.
-- **JUnit 5 integration for automated testing**: The project includes a testing framework with Allure reporting for visualizing test results.
+- **JUnit 5 integration for automated testing**: The project includes a testing framework with surefire html reporting for visualizing test results.
 
 ## Requirements
 
